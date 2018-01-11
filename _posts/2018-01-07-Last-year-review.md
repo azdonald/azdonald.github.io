@@ -34,4 +34,4 @@ So my 2018 goal(professionally) is all about Compliers and Interpreters. I would
 
 I also hope to write more frequently.
 
-Cheers to a bliss 2018.
+Cheers to a blissful 2018.
