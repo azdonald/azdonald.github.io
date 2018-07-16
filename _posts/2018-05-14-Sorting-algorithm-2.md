@@ -1,17 +1,17 @@
 ---
 title: Sorting Algorithms (Part Two)
 description: Sorting Algorithms explained to kids.
-header: Insertion Sort
+header: Selection Sort
 duration: 2 minute read
 layout: post
 ---
 
 In my last post, i explained the [bubble sort algorithm](http://azu-n.com/2018/04/01/Sorting-algorithims.html). Today I
-am going to talk about insertion sort.
+am going to talk about selection sort.
 
-The insertion sort is a similar algorithim to the bubble sort with slight difference. While boh algorithims
+The selection sort is a similar algorithim to the bubble sort with slight difference. While boh algorithims
 work by sequentially going through the list, the bubble sort as explained previously swaps elements if they
-are not in the right place. Insertion sort on the other hand scans the list looking for the largest 
+are not in the right place. Selection sort on the other hand scans the list looking for the largest 
 element. After the first scan, if the largest number isn't at the end of the list, a swap occurs.
 
 Lets take the list [54,26,93,17,77,31,44,55,20], we assume the first element (54) is the largest
